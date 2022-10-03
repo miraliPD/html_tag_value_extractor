@@ -1,6 +1,6 @@
 {
   "name": "@miralipd/html_tag_value_extractor",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "For Extract value of tag html for example : <p>It is test</p> => it is test",
   "main": "index.js",
   "scripts": {
