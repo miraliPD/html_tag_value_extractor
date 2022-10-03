@@ -1,0 +1,30 @@
+{
+  "name": "html_tag_value_extractor",
+  "version": "1.0.0",
+  "description": "For Extract value of tag html for example : <p>It is test</p> => it is test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tag",
+    "html",
+    "parse",
+    "html",
+    "extractor",
+    "extractor",
+    "tag",
+    "tag",
+    "value",
+    "extractor",
+    "tag",
+    "parse",
+    "extract",
+    "contain",
+    "between",
+    "tag"
+  ],
+  "author": "MiraliPD",
+  "license": "MIT"
+}
