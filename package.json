@@ -1,6 +1,6 @@
 {
-  "name": "html_tag_value_extractor",
-  "version": "1.0.0",
+  "name": "@miralipd/html_tag_value_extractor",
+  "version": "0.1.0",
   "description": "For Extract value of tag html for example : <p>It is test</p> => it is test",
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,13 @@
     "tag"
   ],
   "author": "MiraliPD",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miraliPD/html_tag_value_extractor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/miraliPD/html_tag_value_extractor/issues"
+  },
+  "homepage": "https://github.com/miraliPD/html_tag_value_extractor#readme"
 }
