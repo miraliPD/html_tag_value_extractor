@@ -85,4 +85,4 @@ function _removeAdditional(result,removeAdditional){
     return replace;
 }
 
-module.export = extract;
+module.exports = extract;
